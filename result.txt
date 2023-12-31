@@ -1,0 +1,15 @@
+-- naive approach
+Total pages: 238
+Downloaded 238 links in 101.35911130905151 seconds
+
+-- multithread approach
+Total pages: 238
+Downloaded 238 links in 9.000302076339722 seconds
+
+Total pages: 238
+Downloaded 238 links in 5.722753047943115 seconds
+
+-- multiprocess approach
+Total pages: 238
+cpu count: 8
+Downloaded 238 links in 89.99203205108643 seconds
